@@ -1,0 +1,17 @@
+{
+  "name": "oasisknot",
+  "version": "1.0.0",
+  "private": true,
+  "description": "오아시스노트 출장마사지 — 동마다 무게중심의 북위 눈금을 계산해 편성표처럼 적은 지역 안내 정적 사이트",
+  "type": "module",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "build": "node src/build.mjs",
+    "regions": "node --max-old-space-size=4096 scripts/build-regions.mjs",
+    "check": "node scripts/check.mjs",
+    "simil": "node scripts/simil.mjs",
+    "serve": "node scripts/serve.mjs"
+  }
+}

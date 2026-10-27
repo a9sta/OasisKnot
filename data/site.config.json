@@ -1,0 +1,48 @@
+{
+  "brand": {
+    "ko": "오아시스노트",
+    "en": "OasisKnot",
+    "slogan": "동마다 북위 눈금을 읽어 편성표 한 장으로 알려 드리는 접수 안내"
+  },
+  "siteUrl": "https://oasisknot.yovip77.workers.dev",
+  "locale": "ko_KR",
+  "tel": "050-8202-4753",
+  "telRaw": "05082024753",
+  "telLabel": "예약 문의",
+  "hours": "24시간 연중무휴",
+  "pay": "후불제",
+  "arrive": "접수 후 20~40분",
+  "rssTitle": "오아시스노트 북위 메모",
+  "business": {
+    "name": "오아시스노트",
+    "owner": "",
+    "regNo": "",
+    "address": "",
+    "privacyOfficer": "",
+    "email": "",
+    "note": "사업자 정보는 확정되는 대로 이 항목만 채우면 푸터·스키마에 함께 반영된다. 비워 두면 해당 줄은 출력하지 않는다."
+  },
+  "coverage": {
+    "main": [
+      "서울",
+      "인천",
+      "경기",
+      "부산"
+    ],
+    "sub": [
+      "대전",
+      "대구",
+      "울산",
+      "광주",
+      "충남",
+      "충북",
+      "강원",
+      "전북",
+      "전남",
+      "경북",
+      "경남"
+    ]
+  },
+  "indexNowKey": "e86688c1fffa9181cc480a6af8113e35",
+  "naverVerification": ""
+}
